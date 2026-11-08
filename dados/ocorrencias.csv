@@ -54,3 +54,4 @@ id,data,hora,fonte,servico,tipo,rua,duracao,trecho
 53,2026-11-08,10:01,whatsapp-gtj,agua,funcionando,Avenida Carlos Orleans Guimarães,,"Alto da Av Carlos Orleans, normal."
 54,2026-11-08,11:11,whatsapp-gtj,agua,falta,Rua Maranhão,,"Rua Maranhão,35 pouca água vsixa pressão"
 55,2026-11-08,15:04,relato-direto-2026-11-08,agua,retorno,Rua Acre,,"Rua Acre: a água voltou, ainda com pouca pressão (relato direto)"
+56,2026-11-08,15:03,whatsapp-gtj,agua,retorno,Rua Acre,,"Rua Acre, água voltou, mas continua com baixa pressão."
