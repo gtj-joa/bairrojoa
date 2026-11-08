@@ -56,3 +56,4 @@ id,data,hora,fonte,servico,tipo,rua,duracao,trecho
 55,2026-11-08,15:04,relato-direto-2026-11-08,agua,retorno,Rua Acre,,"Rua Acre: a água voltou, ainda com pouca pressão (relato direto)"
 56,2026-11-08,15:03,whatsapp-gtj,agua,retorno,Rua Acre,,"Rua Acre, água voltou, mas continua com baixa pressão."
 57,2026-11-08,16:59,relato-direto-2026-11-08,agua,funcionando,Rua Ceará,,Rua Ceará: não faltou água hoje (relato direto)
+58,2026-11-08,17:47,whatsapp-gtj,agua,funcionando,Rua Acre,,Rua Acre. Água normal agora.
