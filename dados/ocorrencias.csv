@@ -47,3 +47,8 @@ id,data,hora,fonte,servico,tipo,rua,duracao,trecho
 46,2026-10-13,,relato-direto-2026-11-07,agua,falta,Rua Joá,,Rua Joá sem água (relato direto; faltou em diversos dias)
 47,2026-10-20,,relato-direto-2026-11-07,agua,falta,Rua Joá,,Rua Joá sem água (relato direto; faltou em diversos dias)
 48,2026-10-22,,relato-direto-2026-11-07,agua,falta,Rua Joá,,Rua Joá sem água (relato direto; faltou em diversos dias)
+49,2026-11-08,07:41,whatsapp-gtj,agua,falta,Rua Antônio Fernandes,,"Hoje dia 08/11, sem água na Rua Antônio Fernandes, 663. Pico de energia queimou a bomba do reservatório que abastece a rede (informação do funcionário da Copasa). Sem aviso no site da Copasa."
+50,2026-11-08,07:43,whatsapp-gtj,agua,falta,Rua Vespasiano,,Hoje a R Vespasiano sem água
+51,2026-11-08,09:50,whatsapp-gtj,agua,falta,Rua Maria Raimunda,,Maria Raimunda saindo pouca água. Sem pressão
+52,2026-11-08,10:17,whatsapp-gtj,agua,falta,Rua Acre,,"Rua Acre, 245 sem água"
+53,2026-11-08,10:01,whatsapp-gtj,agua,funcionando,Avenida Carlos Orleans Guimarães,,"Alto da Av Carlos Orleans, normal."
