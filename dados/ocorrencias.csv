@@ -52,3 +52,4 @@ id,data,hora,fonte,servico,tipo,rua,duracao,trecho
 51,2026-11-08,09:50,whatsapp-gtj,agua,falta,Rua Maria Raimunda,,Maria Raimunda saindo pouca água. Sem pressão
 52,2026-11-08,10:17,whatsapp-gtj,agua,falta,Rua Acre,,"Rua Acre, 245 sem água"
 53,2026-11-08,10:01,whatsapp-gtj,agua,funcionando,Avenida Carlos Orleans Guimarães,,"Alto da Av Carlos Orleans, normal."
+54,2026-11-08,11:11,whatsapp-gtj,agua,falta,Rua Maranhão,,"Rua Maranhão,35 pouca água vsixa pressão"
