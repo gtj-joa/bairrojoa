@@ -58,3 +58,4 @@ id,data,hora,fonte,servico,tipo,rua,duracao,trecho
 57,2026-11-08,16:59,relato-direto-2026-11-08,agua,funcionando,Rua Ceará,,Rua Ceará: não faltou água hoje (relato direto)
 58,2026-11-08,17:47,whatsapp-gtj,agua,funcionando,Rua Acre,,Rua Acre. Água normal agora.
 59,2026-11-08,17:19,whatsapp-gtj,agua,retorno,Rua Maria Raimunda,,"Maria raimunda. Voltou . Pressão melhor, mas não é a habitual"
+60,2026-11-08,20:45,whatsapp-gtj,agua,retorno,Rua Vespasiano,,"R Vespasiano voltou, pressão muito baixa"
