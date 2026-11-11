@@ -68,3 +68,4 @@ id,data,hora,fonte,servico,tipo,rua,duracao,trecho
 67,2026-11-11,17:11,whatsapp-amigos-do-joa,energia,falta,Rua Maranhão,,Maranhão 35 sem energia
 68,2026-11-11,17:24,whatsapp-amigos-do-joa,energia,oscilacao,Rua Paraíba,,Agora aqui só tem uma fase (meia fase)
 69,2026-11-11,17:39,whatsapp-amigos-do-joa,energia,funcionando,Rua Acre,,Na Acre tem luz
+70,2026-11-11,17:41,whatsapp-gtj,energia,falta,(não informada),,Tbm estamos sem energia na Rua São Paulo. Protocolo 4334340213
