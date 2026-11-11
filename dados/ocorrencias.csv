@@ -67,3 +67,4 @@ id,data,hora,fonte,servico,tipo,rua,duracao,trecho
 66,2026-11-11,17:02,whatsapp-amigos-do-joa,energia,funcionando,Rua Antônio Fernandes,,Antônio Fernandes com luz
 67,2026-11-11,17:11,whatsapp-amigos-do-joa,energia,falta,Rua Maranhão,,Maranhão 35 sem energia
 68,2026-11-11,17:24,whatsapp-amigos-do-joa,energia,oscilacao,Rua Paraíba,,Agora aqui só tem uma fase (meia fase)
+69,2026-11-11,17:39,whatsapp-amigos-do-joa,energia,funcionando,Rua Acre,,Na Acre tem luz
