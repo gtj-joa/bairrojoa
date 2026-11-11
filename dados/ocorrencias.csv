@@ -62,3 +62,4 @@ id,data,hora,fonte,servico,tipo,rua,duracao,trecho
 61,2026-11-11,16:30,whatsapp-amigos-do-joa,energia,falta,Rua Paraíba,,Sem luz aqui na Paraíba. Mais alguém sem energia?
 62,2026-11-11,16:35,whatsapp-amigos-do-joa,energia,falta,Rua Piauí,,Na Piauí também
 63,2026-11-11,16:30,whatsapp-gtj,energia,falta,Rua Ceará,,Sem energia elétrica na Rua Ceará. Início: 16:30 (protocolo aberto na CEMIG)
+64,2026-11-11,16:43,whatsapp-gtj,energia,falta,Rua Maranhão,,"Rua Maranhão 35, sem energia elétrica  desde 16,30hs"
