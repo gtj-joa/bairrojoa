@@ -65,5 +65,5 @@ id,data,hora,fonte,servico,tipo,rua,duracao,trecho
 64,2026-11-11,16:43,whatsapp-gtj,energia,falta,Rua Maranhão,,"Rua Maranhão 35, sem energia elétrica  desde 16,30hs"
 65,2026-11-11,16:44,whatsapp-gtj,energia,funcionando,Rua Maranhão,,Maranhão 137 com luz
 66,2026-11-11,17:02,whatsapp-amigos-do-joa,energia,funcionando,Rua Antônio Fernandes,,Antônio Fernandes com luz
-67,2026-11-11,17:03,whatsapp-gtj,energia,funcionando,Rua Antônio Fernandes,,Antônio Fernandes com luz
-68,2026-11-11,17:07,whatsapp-gtj,energia,falta,(não informada),,podem informar soh os casos sem energia. nas esquecam tbm de fazer a acorrencia no site/app da empresa. 😉👍🏻
+67,2026-11-11,17:11,whatsapp-amigos-do-joa,energia,falta,Rua Maranhão,,Maranhão 35 sem energia
+68,2026-11-11,17:24,whatsapp-amigos-do-joa,energia,oscilacao,Rua Paraíba,,Agora aqui só tem uma fase (meia fase)
