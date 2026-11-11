@@ -69,3 +69,6 @@ id,data,hora,fonte,servico,tipo,rua,duracao,trecho
 68,2026-11-11,17:24,whatsapp-amigos-do-joa,energia,oscilacao,Rua Paraíba,,Agora aqui só tem uma fase (meia fase)
 69,2026-11-11,17:39,whatsapp-amigos-do-joa,energia,funcionando,Rua Acre,,Na Acre tem luz
 70,2026-11-11,17:41,whatsapp-gtj,energia,falta,Rua São Paulo,,Tbm estamos sem energia na Rua São Paulo. Protocolo 4334340213
+71,2026-11-11,18:14,whatsapp-amigos-do-joa,energia,retorno,Rua Paraíba,,Energia voltou!!!
+72,2026-11-11,18:14,whatsapp-gtj,energia,retorno,Rua Maranhão,,Energia voltou agora (Rua Maranhão 35)
+73,2026-11-11,18:20,relato-direto-2026-11-11,energia,funcionando,Rua Ceará,,Rua Ceará: no número 230 a luz não acabou (relato direto)
