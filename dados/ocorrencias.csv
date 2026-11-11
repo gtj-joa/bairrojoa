@@ -59,3 +59,6 @@ id,data,hora,fonte,servico,tipo,rua,duracao,trecho
 58,2026-11-08,17:47,whatsapp-gtj,agua,funcionando,Rua Acre,,Rua Acre. Água normal agora.
 59,2026-11-08,17:19,whatsapp-gtj,agua,retorno,Rua Maria Raimunda,,"Maria raimunda. Voltou . Pressão melhor, mas não é a habitual"
 60,2026-11-08,20:45,whatsapp-gtj,agua,retorno,Rua Vespasiano,,"R Vespasiano voltou, pressão muito baixa"
+61,2026-11-11,16:30,whatsapp-amigos-do-joa,energia,falta,Rua Paraíba,,Sem luz aqui na Paraíba. Mais alguém sem energia?
+62,2026-11-11,16:35,whatsapp-amigos-do-joa,energia,falta,Rua Piauí,,Na Piauí também
+63,2026-11-11,16:30,whatsapp-gtj,energia,falta,Rua Ceará,,Sem energia elétrica na Rua Ceará. Início: 16:30 (protocolo aberto na CEMIG)
