@@ -75,3 +75,7 @@ id,data,hora,fonte,servico,tipo,rua,duracao,trecho
 74,2026-11-18,15:04,whatsapp-gtj,agua,falta,Rua Acre,,"Rua Acre 395,  sem água"
 75,2026-11-18,15:05,whatsapp-gtj,agua,falta,Rua Antônio Fernandes,,"Cheguei em casa agora e também está sem água. Antônio Fernandes,663"
 76,2026-11-18,15:58,whatsapp-gtj,agua,falta,Rua Acre,,Rua Acre 245 sem água
+77,2026-08-29,,relato-direto-2026-11-18,agua,falta,Rua Ceará,,Rua Ceará: sem água no mesmo dia da Rua Acre (relato direto do morador)
+78,2026-10-08,,relato-direto-2026-11-18,agua,falta,Rua Ceará,,Rua Ceará: sem água no mesmo dia da Rua Acre (relato direto do morador)
+79,2026-10-17,,relato-direto-2026-11-18,agua,falta,Rua Ceará,,Rua Ceará: sem água no mesmo dia da Rua Acre (relato direto do morador)
+80,2026-11-18,,relato-direto-2026-11-18,agua,falta,Rua Ceará,,Rua Ceará: sem água no mesmo dia da Rua Acre (relato direto do morador)
