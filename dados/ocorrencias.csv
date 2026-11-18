@@ -74,3 +74,4 @@ id,data,hora,fonte,servico,tipo,rua,duracao,trecho
 73,2026-11-11,18:20,relato-direto-2026-11-11,energia,funcionando,Rua Ceará,,Rua Ceará: no número 230 a luz não acabou (relato direto)
 74,2026-11-18,15:04,whatsapp-gtj,agua,falta,Rua Acre,,"Rua Acre 395,  sem água"
 75,2026-11-18,15:05,whatsapp-gtj,agua,falta,Rua Antônio Fernandes,,"Cheguei em casa agora e também está sem água. Antônio Fernandes,663"
+76,2026-11-18,15:58,whatsapp-gtj,agua,falta,Rua Acre,,Rua Acre 245 sem água
