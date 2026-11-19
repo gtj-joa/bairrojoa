@@ -81,3 +81,4 @@ id,data,hora,fonte,servico,tipo,rua,duracao,trecho
 80,2026-11-18,,relato-direto-2026-11-18,agua,falta,Rua Ceará,,Rua Ceará: sem água no mesmo dia da Rua Acre (relato direto do morador)
 82,2026-11-19,08:45,whatsapp-gtj,agua,falta,Rua Acre,,"Rua Acre,245 dois dias sem água!"
 83,2026-11-19,08:58,whatsapp-gtj,agua,falta,Rua Acre,,"Rua Acre 395, Novamente sem água 😔"
+84,2026-11-19,10:12,whatsapp-gtj,agua,falta,Rua Antônio Fernandes,,Antônio Fernandes sem água
