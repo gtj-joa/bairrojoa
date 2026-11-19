@@ -9,7 +9,7 @@ id,data,hora,fonte,servico,tipo,rua,duracao,trecho
 8,2026-08-27,10:32,whatsapp-amigos-do-joa,energia,funcionando,Rua Um,,Rua Um tem luz
 9,2026-08-27,11:00,whatsapp-amigos-do-joa,energia,oscilacao,Rua Piauí,,Moro na rua Piauí e aqui em casa está só com meia fase
 10,2026-08-27,11:01,whatsapp-amigos-do-joa,energia,funcionando,Rua Antônio Fernandes,,Antonio Fernandes tem luz
-11,2026-08-27,11:29,whatsapp-vizinhos,energia,falta,(não informada),,Alguem tem previsão de retorno da energia? Abri o chamado na CEMIG mas sem retorno ainda
+11,2026-08-27,11:29,whatsapp-vizinhos,energia,falta,Rua Ceará,,Alguem tem previsão de retorno da energia? Abri o chamado na CEMIG mas sem retorno ainda [rua inferida: remetente relatou a Rua Ceará em 11/11]
 12,2026-08-27,11:41,whatsapp-amigos-do-joa,energia,falta,Rua Piauí,,Piauí sem luz
 13,2026-08-27,13:00,whatsapp-amigos-do-joa,energia,falta,Rua Paraíba,desde 08:30,Paraíba tb sem luz desde 8:30
 14,2026-08-27,13:45,whatsapp-amigos-do-joa,energia,retorno,Rua Ceará,,Retornando agora a energia
