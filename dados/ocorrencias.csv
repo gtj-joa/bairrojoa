@@ -82,3 +82,7 @@ id,data,hora,fonte,servico,tipo,rua,duracao,trecho
 82,2026-11-19,08:45,whatsapp-gtj,agua,falta,Rua Acre,,"Rua Acre,245 dois dias sem água!"
 83,2026-11-19,08:58,whatsapp-gtj,agua,falta,Rua Acre,,"Rua Acre 395, Novamente sem água 😔"
 84,2026-11-19,10:12,whatsapp-gtj,agua,falta,Rua Antônio Fernandes,,Antônio Fernandes sem água
+85,2026-11-21,08:05,whatsapp-gtj,agua,falta,Rua Acre,,Rua Acre 395 Sem água
+86,2026-11-21,08:53,whatsapp-gtj,agua,falta,Rua Acre,,"Rua Acre, 245 sem água"
+87,2026-11-21,09:48,whatsapp-gtj,agua,falta,Rua Maria Raimunda,,Sem água na Rua Maria Raimunda Jesus também.
+88,2026-11-21,09:49,whatsapp-gtj,agua,falta,Rua Maria Raimunda,,Maria raimunda sem água 755
