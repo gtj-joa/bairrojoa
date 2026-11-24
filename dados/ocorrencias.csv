@@ -86,3 +86,4 @@ id,data,hora,fonte,servico,tipo,rua,duracao,trecho
 86,2026-11-21,08:53,whatsapp-gtj,agua,falta,Rua Acre,,"Rua Acre, 245 sem água"
 87,2026-11-21,09:48,whatsapp-gtj,agua,falta,Rua Maria Raimunda,,Sem água na Rua Maria Raimunda Jesus também.
 88,2026-11-21,09:49,whatsapp-gtj,agua,falta,Rua Maria Raimunda,,Maria raimunda sem água 755
+89,2026-11-19,10:19,whatsapp-gtj,energia,oscilacao,(não informada),,Pico de energia durante a chuva da madrugada do dia 18/11
