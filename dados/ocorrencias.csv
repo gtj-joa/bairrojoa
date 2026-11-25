@@ -87,3 +87,4 @@ id,data,hora,fonte,servico,tipo,rua,duracao,trecho
 87,2026-11-21,09:48,whatsapp-gtj,agua,falta,Rua Maria Raimunda,,Sem água na Rua Maria Raimunda Jesus também.
 88,2026-11-21,09:49,whatsapp-gtj,agua,falta,Rua Maria Raimunda,,Maria raimunda sem água 755
 89,2026-11-19,10:19,whatsapp-gtj,energia,oscilacao,(não informada),,Pico de energia durante a chuva da madrugada do dia 18/11
+90,2026-11-25,06:07,whatsapp-amigos-do-joa,energia,funcionando,Rua Piauí,,Piauí tem luz
